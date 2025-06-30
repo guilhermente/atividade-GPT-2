@@ -1,0 +1,22 @@
+h1 {text-align: center;}
+body{background-color: yellow;
+    color: black; 
+    justify-content: center;
+    text-align: center;  
+     
+
+}
+
+.card {background-color: aqua;
+        margin: 40px;  
+        padding: 40px;
+        color: black;
+        border-radius: 100%;
+        
+}
+
+img {height: 400px;
+    width: 400px;
+
+}
+
